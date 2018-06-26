@@ -20,14 +20,3 @@ C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\Bl
 C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
 C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
 C:\Repos\BlockchainSamples\ProofOfWork\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.deps.json
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.json
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.runtimeconfig.dev.json
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.dll
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\bin\Debug\netcoreapp2.0\BlockchainDemo.pdb
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csprojAssemblyReference.cache
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.csproj.CoreCompileInputs.cache
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfoInputs.cache
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.AssemblyInfo.cs
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.dll
-C:\Users\srodriguez100\Documents\repos\TransactionReward\BlockchainDemo\obj\Debug\netcoreapp2.0\BlockchainDemo.pdb
